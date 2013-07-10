@@ -44,8 +44,8 @@
 		
 		<section class="sponsorship-pack">
 
-			<a href="Ampersand_Sponsor_Pack_2013.pdf">
-				<div class="button">Sponsors Information Pack <br/><small>(1.2Mb PDF)</small></div>
+			<a href="Ampersand_Sponsor_Pack_NYC.pdf">
+				<div class="button">Sponsors Information Pack <br/><small>(2.1Mb PDF)</small></div>
 			</a>				
 			
 			<br/>
