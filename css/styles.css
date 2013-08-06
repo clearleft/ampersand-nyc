@@ -694,11 +694,12 @@ h2 em, h3 em {
 	margin-top: 2em;
 }
 		
+		#keynote .speaker-more { background: url('../images/speakers-keynote.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#nick-sherman .speaker-more { background: url('../images/speakers-nick-sherman.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#mark-boulton .speaker-more { background: url('../images/speakers-mark-boulton.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#jenn-lukas .speaker-more { background: url('../images/speakers-jenn-lukas.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#jonathan-hoefler .speaker-more { background: url('../images/speakers-jonathan-hoefler.jpg') 0 0 no-repeat; background-size: contain;  }	
-		#erik-spiekermann .speaker-more { background: url('../images/speakers-erik-spiekermann.jpg') 0 0 no-repeat; background-size: contain;  }	
+		#erik-spiekermann .speaker-more { background: url('../images/speakers-erik-spiekermann.jpg') 0 0 no-repeat; background-size: contain;  }
 		#trent-walton .speaker-more { background: url('../images/speakers-trent-walton.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#luc-de-groot .speaker-more { background: url('../images/speakers-luc-de-groot.jpg') 0 0 no-repeat; background-size: contain;  }
 		#christian-schwartz .speaker-more { background: url('../images/speakers-christian-schwartz.jpg') 0 0 no-repeat; background-size: contain;  }	

@@ -90,6 +90,23 @@
     	</div><!-- END MORE-BIO -->
    </section><!-- ########  END SPIEKERMANN ###### -->
 */ ?>
+   <section class="speakers-container" id="keynote">
+
+  		<div class="speaker-copy" >
+   		<h1>Keynote</h1>
+   		<p></p>
+
+  		<h2>Very Special Guest</h2>
+   		<p class="speaker-bio"></p>
+   	</div>	<!-- END SPEAKER-BIO -->
+
+  		<div class="speaker-more">
+  	 		  	 		<ul>
+  	 			<li></li>
+  	 		</ul>
+  	 	</div><!-- END MORE-BIO -->
+  </section>
+
    <section class="speakers-container" id="mark-boulton">
 
   		<div class="speaker-copy" >
@@ -218,13 +235,14 @@
 		<h2>Speakers &amp; Sessions</h2>
 		<ul>
 			<?php /*<li><a href="#erik-spiekermann">Erik Spiekermann</a></li>*/ ?>
+			<li><a href="#keynote">Special Guest TBA</a></li>
 			<li><a href="#mark-boulton">Mark Boulton</a></li>
-			<li><a href="#trent-walton">Trent Walton</a></li>
 			<li><a href="#jonathan-hoefler">Jonathan Hoefler</a></li>
+			<li><a href="#luc-de-groot">Luc(as) de Groot</a></li>
+			<li><a href="#trent-walton">Trent Walton</a></li>
 			<li><a href="#nick-sherman">Nick Sherman</a></li>
 			<li><a href="#jenn-lukas">Jenn Lukas</a></li>
 			<li><a href="#christian-schwartz">Christian Schwartz</a></li>
-			<li><a href="#luc-de-groot">Luc(as) de Groot</a></li>
 		</ul>
 	</div><!-- END SPEAKER-NAV -->
 

@@ -34,13 +34,13 @@
 
 <!-- LOCATION -->
 <div class="main-content">
-	
+
 	<?php include("includes/nav.php"); ?>
 	<article class="location">
 		<header>
 			<h1>Location</h1>
-			<p>New York. Need we say more? New York is fabulous, cosmopolitan city with a rich typographic history. Why not spend a long weekend here, with Ampersand as the highlight!</p>
-		</header>	
+			<p>New York, New York. Need we say more? New York is a fabulous, cosmopolitan city with a rich typographic history. We're hosting Ampersand smack bang in the middle of Manhattan, in the beautiful TimesCenter. Why not spend a long weekend here, with Ampersand as the highlight!</p>
+		</header>
 		<div id="conf-location">
 			<?php /*
 			<div class="location-a">
@@ -64,30 +64,30 @@
 					<span class="conf-location-name">Venue TBA</span>
 				</address>
 			</div>
-		</div><!-- END #conf-location -->	
-		
-		<?php /*		
+		</div><!-- END #conf-location -->
+
+		<?php /*
 		<div id="loc-container">
 			<div class="map">
 					<iframe src='http://a.tiles.mapbox.com/v3/mhjallan.map-dcw2v1k0.html#15/50.82346178463947/-0.14044046401978338'></iframe>
-			</div>			
+			</div>
 		</div><!-- END #conf-Location -->
-		
+
 		<div id="city-info">
 			<h3>Getting Here</h3>
 			<p>Brighton is only 30 minutes by train from London Gatwick airport. London itself is only 55 minutes by train.</p>
 			<h3>Accommodation</h3>
 			<p>Latest information is available from <a href="http://visitbrighton.com/accommodation">visitbrighton.com</a></p>
-		</div><!-- END #city-info -->			
+		</div><!-- END #city-info -->
 
-*/ ?>	
+*/ ?>
 
-			
+
 	</article>
 	<div class="clearfix"></div>
-</div>	
-	
-		
+</div>
+
+
 	<?php include("includes/footer.php"); ?>
 
 </body>
