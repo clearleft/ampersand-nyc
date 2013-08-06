@@ -123,113 +123,114 @@
   	 			<li><a href="http://www.markboulton.co.uk">www.markboulton.co.uk</a></li>
   	 		</ul>
   	 	</div><!-- END MORE-BIO -->
-  </section>
-
-  <section class="speakers-container" id="trent-walton">
-
- 	<div class="speaker-copy" >
-  		<h1>Get Your Hands Dirty</h1>
-  		<p>How far can we push type on the web? As webfont choices have expanded over the years, so have our options for what we can do with them. We’ll explore what’s possible with CSS, Javascript, and a little bit of elbow grease.</p>
- 		<h2>Trent Walton</h2>
-  		<p class="speaker-bio">Trent Walton is founder and 1/3 of Paravel,  a custom web design and development shop based out of the Texas Hill Country. In his spare time, Trents writes about what he learns at his blog,  and on Twitter.  Trent’s wife has put him on a font allowance.</p>
-  	</div>	<!-- END SPEAKER-BIO -->
-
- 	<div class="speaker-more">
-  		  		<ul>
-  			<li><a href="http://TrentWalton.com/">TrentWalton.com</a></li>
-  			<li><a href="http://www.twitter.com/@trentwalton">@TrentWalton</a></li>
-  			</ul>
-  	</div><!-- END MORE-BIO -->
- </section>
-
-
-	 <section class="speakers-container" id="jonathan-hoefler">
-
- 		<div class="speaker-copy" >
-	 		<h1>Putting the Fonts into Webfonts</h1>
-	 		<p></p>
-
-			<h2>Jonathan Hoefler</h2>
-	 		<p class="speaker-bio"></p>
-	 	</div>	<!-- END SPEAKER-BIO -->
-
- 		<div class="speaker-more">
- 	 		 	 		<ul>
- 	 			<li><a href="http://www.twitter.com/@h_fj">@H_FJ</a></li>
-	 	</div><!-- END MORE-BIO -->
-	</section>
-
-    <section class="speakers-container" id="nick-sherman">
-
-   	<div class="speaker-copy" >
-    		<h1>The Future of Responsive Typography</h1>
-    		<p></p>
-
-   		<h2>Nick Sherman</h2>
-    		<p class="speaker-bio"></p>
-    	</div>	<!-- END SPEAKER-BIO -->
-
-   	<div class="speaker-more">
-    		    		<ul>
-    			<li><a href="http://www.twitter.com/@nicksherman">@NickSherman</a></li>
-    		</ul>
-    	</div><!-- END MORE-BIO -->
-   </section>
-
-
- <section class="speakers-container" id="jenn-lukas">
-
-	<div class="speaker-copy" >
- 		<h1>On Icon Fonts &amp; Working with Designers</h1>
- 		<p>Ever spent countless hours crafting a totally awesome type system for your beautiful design, only to have it lost in translation when it goes to development? Let’s examine type and icon fonts through a developer lense and see how to work together to get everyone on the same page!</p>
-
-		<h2>Jenn Lukas</h2>
- 		<p class="speaker-bio">Jenn Lukas is a web developer working with Happy Cog in Philadelphia. She writes for The Nerdary and has a regular column in .net magazine. When she’s not crafting sites with the finest of web standards, Jenn teaches HTML and CSS for GirlDevelopIt and runs <a href="http://ladiesintech.com">ladiesintech.com</a>.</p>
- 	</div>	<!-- END SPEAKER-BIO -->
-
-	<div class="speaker-more">
- 		 		<ul>
- 			<li><a href="http://www.twitter.com/@jennlukas">@JennLukas</a></li>
- 			<li><a href="http://jennlukas.com/">JennLukas.com</a></li>
- 		</ul>
- 	</div><!-- END MORE-BIO -->
 </section>
 
-  <section class="speakers-container" id="christian-schwartz">
 
- 	<div class="speaker-copy" >
-  		<h1>Webfonts are Just Fonts</h1>
+ <section class="speakers-container" id="jonathan-hoefler">
 
- 		<h2>Christian Schwartz</h2>
-  		<p class="speaker-bio">Christian Schwartz is a type designer and typography consultant. Christian is one half of Commercial Type, a joint venture with Paul Barnes, with whom he has collaborated since 2004 on various typeface projects, most notably the award winning Guardian Egyptian.</p>
+	<div class="speaker-copy">
+		<h1>Putting the Fonts into Webfonts</h1>
+		<p></p>
 
-  	</div>	<!-- END SPEAKER-BIO -->
+		<h2>Jonathan Hoefler</h2>
+		<p class="speaker-bio"></p>
+	</div>	<!-- END SPEAKER-BIO -->
 
- 	<div class="speaker-more">
-  		  		<ul>
-  			<li><a href="http://www.twitter.com/@commercialtype">@CommercialType</a></li>
-  			<li><a href="http://www.christianschwartz.com/">ChristianSchwartz.com</a></li>
-  		</ul>
-  	</div><!-- END MORE-BIO -->
- </section>
+	<div class="speaker-more">
+					<ul>
+			<li><a href="http://www.twitter.com/@h_fj">@H_FJ</a></li>
+			</ul>
+	</div><!-- END MORE-BIO -->
+</section>
+
+<section class="speakers-container" id="trent-walton">
+
+<div class="speaker-copy" >
+	<h1>Get Your Hands Dirty</h1>
+	<p>How far can we push type on the web? As webfont choices have expanded over the years, so have our options for what we can do with them. We’ll explore what’s possible with CSS, Javascript, and a little bit of elbow grease.</p>
+	<h2>Trent Walton</h2>
+	<p class="speaker-bio">Trent Walton is founder and 1/3 of Paravel,  a custom web design and development shop based out of the Texas Hill Country. In his spare time, Trents writes about what he learns at his blog,  and on Twitter.  Trent’s wife has put him on a font allowance.</p>
+</div>	<!-- END SPEAKER-BIO -->
+
+<div class="speaker-more">
+			<ul>
+		<li><a href="http://TrentWalton.com/">TrentWalton.com</a></li>
+		<li><a href="http://www.twitter.com/@trentwalton">@TrentWalton</a></li>
+		</ul>
+</div><!-- END MORE-BIO -->
+</section>
+
+<section class="speakers-container" id="nick-sherman">
+
+<div class="speaker-copy" >
+		<h1>The Future of Responsive Typography</h1>
+		<p></p>
+
+	<h2>Nick Sherman</h2>
+		<p class="speaker-bio"></p>
+	</div>	<!-- END SPEAKER-BIO -->
+
+<div class="speaker-more">
+					<ul>
+			<li><a href="http://www.twitter.com/@nicksherman">@NickSherman</a></li>
+		</ul>
+	</div><!-- END MORE-BIO -->
+</section>
 
 
-     <section class="speakers-container" id="luc-de-groot">
+<section class="speakers-container" id="jenn-lukas">
 
-    	<div class="speaker-copy" >
-     		<h1>Readability Per Square Centimetre</h1>
-     		<p></p>
+<div class="speaker-copy" >
+	<h1>On Icon Fonts &amp; Working with Designers</h1>
+	<p>Ever spent countless hours crafting a totally awesome type system for your beautiful design, only to have it lost in translation when it goes to development? Let’s examine type and icon fonts through a developer lense and see how to work together to get everyone on the same page!</p>
 
-    		<h2>Luc(as) de Groot</h2>
-     		<p class="speaker-bio"></p>
-     	</div>	<!-- END SPEAKER-BIO -->
+	<h2>Jenn Lukas</h2>
+	<p class="speaker-bio">Jenn Lukas is a web developer working with Happy Cog in Philadelphia. She writes for The Nerdary and has a regular column in .net magazine. When she’s not crafting sites with the finest of web standards, Jenn teaches HTML and CSS for GirlDevelopIt and runs <a href="http://ladiesintech.com">ladiesintech.com</a>.</p>
+</div>	<!-- END SPEAKER-BIO -->
 
-    	<div class="speaker-more">
-     		    		<ul>
-     			<li><a href="http://www.twitter.com/@fontfabrik">@FontFabrik</a></li>
-     		</ul>
-     	</div><!-- END MORE-BIO -->
-    </section>
+<div class="speaker-more">
+			<ul>
+		<li><a href="http://www.twitter.com/@jennlukas">@JennLukas</a></li>
+		<li><a href="http://jennlukas.com/">JennLukas.com</a></li>
+	</ul>
+</div><!-- END MORE-BIO -->
+</section>
+
+<section class="speakers-container" id="christian-schwartz">
+
+<div class="speaker-copy" >
+	<h1>Webfonts are Just Fonts</h1>
+
+	<h2>Christian Schwartz</h2>
+	<p class="speaker-bio">Christian Schwartz is a type designer and typography consultant. Christian is one half of Commercial Type, a joint venture with Paul Barnes, with whom he has collaborated since 2004 on various typeface projects, most notably the award winning Guardian Egyptian.</p>
+
+</div>	<!-- END SPEAKER-BIO -->
+
+<div class="speaker-more">
+			<ul>
+		<li><a href="http://www.twitter.com/@commercialtype">@CommercialType</a></li>
+		<li><a href="http://www.christianschwartz.com/">ChristianSchwartz.com</a></li>
+	</ul>
+</div><!-- END MORE-BIO -->
+</section>
+
+
+ <section class="speakers-container" id="luc-de-groot">
+
+	<div class="speaker-copy" >
+		<h1>Readability Per Square Centimetre</h1>
+		<p></p>
+
+		<h2>Luc(as) de Groot</h2>
+		<p class="speaker-bio"></p>
+	</div>	<!-- END SPEAKER-BIO -->
+
+	<div class="speaker-more">
+					<ul>
+			<li><a href="http://www.twitter.com/@fontfabrik">@FontFabrik</a></li>
+		</ul>
+	</div><!-- END MORE-BIO -->
+</section>
 
 	<div class="speaker-nav">
 		<h2>Speakers &amp; Sessions</h2>
