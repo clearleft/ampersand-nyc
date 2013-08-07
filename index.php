@@ -47,12 +47,12 @@
 			<li class="li-spk5" ><a id="speaker5" href="/speakers.php#erik-spiekermann">Erik Spiekermann</a><p class="presentation-title">Keynote</p></li> */ ?>
 			<li class="li-spk5" ><a id="speaker5" href="/speakers.php#keynote">Very Special Guest</a><p class="presentation-title">Keynote</p></li>
 			<li class="li-spk2" ><a id="speaker2" href="/speakers.php#mark-boulton">Mark Boulton</a><p class="presentation-title">Typography in Responsive Design</p></li>
-			<li class="li-spk6" ><a id="speaker6" href="/speakers.php#trent-walton">Trent Walton</a><p class="presentation-title">Get Your Hands Dirty</p></li>
 			<li class="li-spk7" ><a id="speaker7" href="/speakers.php#jonathan-hoefler">Jonathan Hoefler</a><p class="presentation-title">Putting the Fonts into Webfonts</p></li>
+			<li class="li-spk4" ><a id="speaker4" href="/speakers.php#luc-de-groot">Luc(as) de Groot</a><p class="presentation-title">Readability Per Square Centimetre</p></li>
+			<li class="li-spk6" ><a id="speaker6" href="/speakers.php#trent-walton">Trent Walton</a><p class="presentation-title">Get Your Hands Dirty</p></li>
 			<li class="li-spk1" ><a id="speaker1" href="/speakers.php#nick-sherman">Nick Sherman</a><p class="presentation-title">The Future of Responsive Typography</p></li>
 			<li class="li-spk3" ><a id="speaker3" href="/speakers.php#jenn-lukas">Jenn Lukas</a><p class="presentation-title">On Icon Fonts &amp; Working with Designers</p></li>
 			<li class="li-spk9" ><a id="speaker9" href="/speakers.php#christian-schwartz">Christian Schwartz</a><p class="presentation-title">Webfonts are Just Fonts</p></li>
-			<li class="li-spk4" ><a id="speaker4" href="/speakers.php#luc-de-groot">Luc(as) de Groot</a><p class="presentation-title">Readability Per Square Centimetre</p></li>
 
 		</ul>
 		<div class="clearfix">
