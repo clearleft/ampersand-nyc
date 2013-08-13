@@ -218,11 +218,11 @@
  <section class="speakers-container" id="luc-de-groot">
 
 	<div class="speaker-copy" >
-		<h1>Readability Per Square Centimetre</h1>
-		<p></p>
+		<h1>Readability Per Square Centimeter</h1>
+		<p>Luc(as) likes to introduce a new terminology named "readability per square centimeter" and explains that it often works contrary to our expectations. The readability per square cm does not depend on font choice in the first place, but on many other factors, that also play an important role in the web.</p>
 
 		<h2>Luc(as) de Groot</h2>
-		<p class="speaker-bio"></p>
+		<p class="speaker-bio">Berlin-based Dutch type designer Luc(as) de Groot has worked with and for many well-known companies and publications. He has made custom fonts for prestigious newspapers such as Folha de S.Paulo, Le Monde, Metro and Der Spiegel in addition to creating corporate type for international companies including Sun Microsystems, Bell South, Heineken, Siemens and Miele. He designed two font families for Microsoft: the ‘monospaced’ font family Consolas, the new alternative to Courier; and Calibri, the new default typeface in Microsoft Word. </p>
 	</div>	<!-- END SPEAKER-BIO -->
 
 	<div class="speaker-more">

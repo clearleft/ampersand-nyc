@@ -14,18 +14,13 @@
 				<div class="executive">
 					<h2><span>Executive Sponsors</span></h2>
 					<a href="http://www.typography.com/index.php?affiliateID=312"><img src="images/sponsors-hoefler-frere-jones.svg" alt="Hoefler &amp; Frere-Jones" style="position:relative; top:5px"></a>
-<?php /*					<a href="http://gridsetapp.com/"><img src="images/sponsors-gridset.svg" alt="Gridset" style="position:relative; top:-30px"></a> */ ?>
+					<a href="http://gridsetapp.com/"><img src="images/sponsors-gridset.svg" alt="Gridset" style="position:relative; top:-30px"></a>
 					<a href="http://myfonts.com"><img src="images/sponsors-myfonts.svg" alt="MyFonts Web" style="position:relative; top:-1px"></a>	
 				</div>
-				<?php /*
 				<div class="media-partners">
 					<h2><span>Media Partners</span></h2>	
-					<a href="http://www.fivesimplesteps.com/"><img src="images/sponsors-five-simple-steps.svg" alt="Five Simple Steps" style="background:#fff"></a>	
-					<a href="http://graffica.info/"><img src="images/sponsors-graffica.svg" alt="Graffica"></a>			
-					<a href="http://www.eyemagazine.com/"><img src="images/sponsors-eye.svg" alt="Eye Magazine"></a>		
-					<a href="http://www.istd.org.uk/"><img src="images/sponsors-ISTD.png" alt="ISTD" style="width:80px"></a>			
+					<a href="http://www.fivesimplesteps.com/"><img src="images/sponsors-five-simple-steps.svg" alt="Five Simple Steps" style="background:#fff"></a>				
 				</div>
-				*/ ?>
 				<div class="grass-roots">
 					<h2><span>Grass Roots Sponsors</span></h2>
 					<a href="http://type-together.com"><img src="images/sponsors-type-together.png" alt="TypeTogether"></a>

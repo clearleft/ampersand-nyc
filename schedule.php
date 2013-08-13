@@ -103,7 +103,7 @@
                <tr class="vevent">
                     <th class="time"><time class="dtstart" title="2013-11-02T12:30:00">12.30</time> &ndash; <time class="dtend" title="2013-11-02T13:15:00">13.15</time></th>
                     <td>
-						<h3 class="summary">Readability per Square Centimetre</h3>
+						<h3 class="summary">Readability per Square Centimeter</h3>
                     	<p class="vcard"><a href="/speakers.php#luc-de-groot" class="fn">Luc(as) de Groot</a></p>
 					</td>
                 </tr>
