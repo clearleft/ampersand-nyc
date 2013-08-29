@@ -15,15 +15,17 @@
 					<h2><span>Executive Sponsors</span></h2>
 					<a href="http://www.typography.com/index.php?affiliateID=312"><img src="images/sponsors-hoefler-frere-jones.svg" alt="Hoefler &amp; Frere-Jones" style="position:relative; top:5px"></a>
 					<a href="http://gridsetapp.com/"><img src="images/sponsors-gridset.svg" alt="Gridset" style="position:relative; top:-30px"></a>
-					<a href="http://myfonts.com"><img src="images/sponsors-myfonts.svg" alt="MyFonts Web" style="position:relative; top:-1px"></a>	
+					<a href="http://myfonts.com"><img src="images/sponsors-myfonts.svg" alt="MyFonts" style="position:relative; top:-1px"></a>	
+					<a href="http://webtype.com"><img src="images/sponsors-webtype.png" alt="WebType" style="position:relative; top:-32px; height: 35px;"></a>	
 				</div>
 				<div class="media-partners">
 					<h2><span>Media Partners</span></h2>	
-					<a href="http://www.fivesimplesteps.com/"><img src="images/sponsors-five-simple-steps.svg" alt="Five Simple Steps" style="background:#fff"></a>				
+					<a href="http://www.fivesimplesteps.com/"><img src="images/sponsors-five-simple-steps.svg" alt="Five Simple Steps" style="background:#fff"></a>	
+					<a href="http://tdc.org/"><img src="images/sponsors-TDC.png" alt="Type Directors Club" style="height: 85px;position:relative; top:3px"></a>				
 				</div>
 				<div class="grass-roots">
 					<h2><span>Grass Roots Sponsors</span></h2>
-					<a href="http://type-together.com"><img src="images/sponsors-type-together.png" alt="TypeTogether"></a>
+					<a href="http://type-together.com"><img src="images/sponsors-type-together.png" alt="TypeTogether"style="position:relative; top:-22px"></a>
 				<?php /*	<a href="https://workfu.com/?Ampersand"><img src="images/sponsors-workfu.png" alt="WorkFu" style="width:150px; position:relative; top:-22px"></a> */ ?>
 				</div>
 			</div>
