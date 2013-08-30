@@ -52,18 +52,18 @@ table {	border-collapse: collapse;	border-spacing: 0; }
 /* Default Mobile View Styles */
 
 html {
-	background: #1a6259; /* Old browsers */
-	background: -moz-linear-gradient(left,  #1a6259 0%, #193749 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#1a6259), color-stop(100%,#193749)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(left,  #1a6259 0%,#193749 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(left,  #1a6259 0%,#193749 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(left,  #1a6259 0%,#193749 100%); /* IE10+ */
-	background: linear-gradient(to right,  #1a6259 0%,#193749 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a6259', endColorstr='#1f445a',GradientType=1 ); /* IE6-9 */
+	background: #20384c; /* Old browsers */
+	background: -moz-linear-gradient(left,  #20384c 0%, #32265a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#20384c), color-stop(100%,#32265a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #20384c 0%,#32265a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #20384c 0%,#32265a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #20384c 0%,#32265a 100%); /* IE10+ */
+	background: linear-gradient(to right,  #20384c 0%,#32265a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20384c', endColorstr='#1f445a',GradientType=1 ); /* IE6-9 */
 }
 
 body { 	
-	background:url('../images/brighton-bkg.png') center center fixed; 
+	background:url('../images/nyc-bkg.png') center center fixed; 
 	font-size:100%;
 	line-height: 1.5em;
 	font-family:"Karmina Sans Light", Corbel, "Lucida Grande", "Lucida Sans Unicode", sans-serif; font-weight:200; font-style:normal; 
