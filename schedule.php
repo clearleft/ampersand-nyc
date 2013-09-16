@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>Ampersand NYC &middot; Schedule</title>
+<title>Ampersand New York &middot; Schedule</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
@@ -109,14 +109,14 @@
                 </tr>
 
                  <tr class="vevent break">
-                	<th class="time"><time class="dtstart" title="2013-11-02T13:15:00">13.15</time> &ndash; <time class="dtend" title="2013-11-02T14:45:00">14.45</time></th>
+                	<th class="time"><time class="dtstart" title="2013-11-02T13:15:00">13.15</time> &ndash; <time class="dtend" title="2013-11-02T14:30:00">14.30</time></th>
                 	<td>
 						<h3 class="summary">Lunch <em>(not provided)</em></h3>
                 	</td>
                 </tr>
 
                 <tr class="vevent">
-                    <th class="time"><time class="dtstart" title="2013-11-02T14:45:00">14.45</time> &ndash; <time class="dtend" title="2013-11-02T15:30:00">15.30</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T14:30:00">14.30</time> &ndash; <time class="dtend" title="2013-11-02T15:15:00">15.15</time></th>
                     <td>
                     	<h3 class="summary">Get Your Hands Dirty</h3>
                 		<p class="vcard"><a href="/speakers.php#trent-walton" class="fn url">Trent Walton</a></p>
@@ -124,7 +124,7 @@
                 </tr>
 
                <tr class="vevent">
-                    <th class="time"><time class="dtstart" title="2013-11-02T11:15:30">15.30</time> &ndash; <time class="dtend" title="2013-11-02T16:15:00">16.15</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T11:15:15">15.15</time> &ndash; <time class="dtend" title="2013-11-02T16:00:00">16.00</time></th>
                     <td>
 						<h3 class="summary">The Future of Responsive Typography</h3>
                     	<p class="vcard"><a href="/speakers.php#nick-sherman" class="fn">Nick Sherman</a></p>
@@ -132,34 +132,34 @@
                 </tr>
 
                 <tr class="vevent break">
-                    <th class="time"><time class="dtstart" title="2013-11-02T16:15:00">16.15</time> &ndash; <time class="dtend" title="2013-11-02T16:45:00">16.45</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T16:00:00">16.15</time> &ndash; <time class="dtend" title="2013-11-02T16:30:00">16.30</time></th>
                     <td>
                			<h3 class="summary">Break <em>sponsored by Hoefler &amp; Frere-Jones</em></h3>
                    	</td>
                 </tr>
 
                 <tr class="vevent">
-                    <th class="time"><time class="dtstart" title="2013-11-02T16:45:00">16.45</time> &ndash; <time class="dtend" title="2013-11-02T16:45:00">17.30</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T16:30:00">16.30</time> &ndash; <time class="dtend" title="2013-11-02T17:15:00">17.15</time></th>
                     <td>
 						<h3 class="summary">On Icon Fonts &amp; Working with Designers</h3>
                     	<p class="vcard"><a href="/speakers.php#jenn-lukas" class="fn url">Jenn Lukas</a></p>
                     </td>
                 </tr>
                  <tr class="vevent">
-                    <th class="time"><time class="dtstart" title="2013-11-02T17:30:00">17.30</time> &ndash; <time class="dtend" title="2013-11-02T18:15:00">18.15</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T17:15:00">17.15</time> &ndash; <time class="dtend" title="2013-11-02T18:00:00">18.00</time></th>
                     <td>
 						<h3 class="summary">Webfonts are Just Fonts</h3>
                     	<p class="vcard"><a href="/speakers.php#christian-schwartz" class="fn url">Christian Schwartz</a></p>
                     </td>
                 </tr>
 				<tr class="vevent">
-                    <th class="time"><time class="dtstart" title="2013-11-02T18:15:00">18.15</time> &ndash; <time class="dtend" title="2013-11-02T18:30:00">18.30</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T18:00:00">18.00</time> &ndash; <time class="dtend" title="2013-11-02T18:15:00">18.15</time></th>
                     <td>
 						<h3 class="summary">Closing Remarks</h3>
                    	</td>
                 </tr>
                 <tr class="vevent after-party last">
-                    <th class="time"><time class="dtstart" title="2013-11-02T19:30:00">19.30</time> &ndash; <time class="dtend" >Late</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T19:30:00">19.30</time> &ndash; <time class="dtend">Late</time></th>
                     <td>
                     	<h3 class="summary">After Party <em>hosted by Typekit</em></h3>
                     	<p class="vcard"><a href="location.php" class="fn url">TBA</a></p>

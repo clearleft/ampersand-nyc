@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>Ampersand NYC &middot; Terms &amp; Conditions</title>
+<title>Ampersand New York &middot; Terms &amp; Conditions</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
