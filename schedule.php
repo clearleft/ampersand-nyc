@@ -132,7 +132,7 @@
                 </tr>
 
                 <tr class="vevent break">
-                    <th class="time"><time class="dtstart" title="2013-11-02T16:00:00">16.15</time> &ndash; <time class="dtend" title="2013-11-02T16:30:00">16.30</time></th>
+                    <th class="time"><time class="dtstart" title="2013-11-02T16:00:00">16.00</time> &ndash; <time class="dtend" title="2013-11-02T16:30:00">16.30</time></th>
                     <td>
                			<h3 class="summary">Break <em>sponsored by Hoefler &amp; Frere-Jones</em></h3>
                    	</td>
