@@ -72,8 +72,8 @@
                 <tr class="vevent">
                     <th class="time"><time class="dtstart" title="2013-11-02T09:45:00">09.45</time> &ndash; <time class="dtend" title="2013-11-02T010:30:00">10.30</time></th>
                     <td>
-                    	<h3 class="summary">Keynote</h3>
-                    	<p class="vcard"><a href="/speakers.php#keynote" class="fn" >Very Special Guest</a></p>
+                    	<h3 class="summary">Keynote: Type as Brand, Brand as Type</h3>
+                    	<p class="vcard"><a href="/speakers.php#michael-johnson" class="fn" >Michael Johnson</a></p>
                     </td>
                 </tr>
 

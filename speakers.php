@@ -71,41 +71,25 @@
 <div class="main-content">
 
 	<?php include("includes/nav.php"); ?>
-<?php /*
-    <section class="speakers-container" id="erik-spiekermann">
+
+    <section class="speakers-container" id="michael-johnson">
 
    	<div class="speaker-copy" >
-    		<h1>Keynote</h1>
+    		<h1>Keynote: Brand as Type, Type as Brand</h1>
     		<p></p>
 
-   		<h2>Erik Spiekermann</h2>
-    		<p class="speaker-bio">Erik Spiekermann is information architect, type designer and author of books and articles on type and typography. Two of his typefaces, FF Meta and ITC Officina, are considered to be modern classics.  In 1979 he founded MetaDesign and in 1989 FontShop. Today he is managing partner and creative director of Edenspiekermann. He is also Honorary Royal Designer for Industry in Britain.</p>
+   		<h2>Michael Johnson</h2>
+    		<p class="speaker-bio">Michael Johnson runs johnson banks, a London-based design consultancy with a global reputation. His company works on a wide range of branding projects, often imbuing each job with its own distinctive typographic style. Michael also regularly initiates typographic research projects, such as the 3D alphabet project, ‘Arkitypo’, and the bilingual English/Japanese typeface, ‘Phonetikana’. He has won most of the design world’s most prestigious awards (including multiple D&amp;AD ‘yellow pencils’), has dozens of designs in the V&amp;A’s permanent collection and was D&amp;AD President in 2003.</p>
     	</div>	<!-- END SPEAKER-BIO -->
 
    	<div class="speaker-more">
     		    		<ul>
-    			<li><a href="http://www.twitter.com/spiekermann">@espiekermann</a></li>
-    			<li><a href="http://spiekermann.com/">spiekermann.com</a></li>
+    			<li><a href="http://www.twitter.com/johnsonbanks">@johnsonbanks</a></li>
+    			<li><a href="http://johnsonbanks.co.uk/thoughtfortheweek">Thought for the Week</a></li>
+    			
     		</ul>
     	</div><!-- END MORE-BIO -->
-   </section><!-- ########  END SPIEKERMANN ###### -->
-*/ ?>
-   <section class="speakers-container" id="keynote">
-
-  		<div class="speaker-copy" >
-   		<h1>Keynote</h1>
-   		<p></p>
-
-  		<h2>Very Special Guest</h2>
-   		<p class="speaker-bio"></p>
-   	</div>	<!-- END SPEAKER-BIO -->
-
-  		<div class="speaker-more">
-  	 		  	 		<ul>
-  	 			<li></li>
-  	 		</ul>
-  	 	</div><!-- END MORE-BIO -->
-  </section>
+   </section>
 
    <section class="speakers-container" id="mark-boulton">
 
@@ -130,10 +114,10 @@
 
 	<div class="speaker-copy">
 		<h1>Putting the Fonts into Webfonts</h1>
-		<p></p>
+		<p>There are compelling questions about how foundries can offer web designers an expressive medium (and readers a rich one), and what it means for typography to be visually, mechanically, and culturally appropriate to the web. Join Jonathan Hoefler on an exploration of this side of webfonts, and a discussion of where the needs of designers meet the needs of readers. You’ll get to see why H&amp;FJ believe that webfonts promise so much more than just ‘fonts on the web.’</p>
 
 		<h2>Jonathan Hoefler</h2>
-		<p class="speaker-bio"></p>
+		<p class="speaker-bio">Jonathan Hoefler is the founder of Hoefler &amp; Frere-Jones, the type foundry responsible for some of the world’s most beloved typefaces. Fast Company named them one of the most innovative design companies in America, the Museum of Modern Art acquired four of their typefaces for its permanent collection, and President Barack Obama ran his second election campaign amidst a sea of typefaces from H&amp;FJ.</p>
 	</div>	<!-- END SPEAKER-BIO -->
 
 	<div class="speaker-more">
@@ -167,7 +151,7 @@
 		<p></p>
 
 	<h2>Nick Sherman</h2>
-		<p class="speaker-bio"></p>
+		<p class="speaker-bio">Nick Sherman is a Brooklyn-based typographer working with Font Bureau and Webtype to promote typefaces for print and digital media. Originally from Cape Cod and Boston, he is also a skate­boarder, pizza enthusiast, printer, musician, and classic horror film buff.</p>
 	</div>	<!-- END SPEAKER-BIO -->
 
 <div class="speaker-more">
@@ -236,7 +220,7 @@
 		<h2>Speakers &amp; Sessions</h2>
 		<ul>
 			<?php /*<li><a href="#erik-spiekermann">Erik Spiekermann</a></li>*/ ?>
-			<li><a href="#keynote">Special Guest TBA</a></li>
+			<li><a href="#michael-johnson">Michael Johnson</a></li>
 			<li><a href="#mark-boulton">Mark Boulton</a></li>
 			<li><a href="#jonathan-hoefler">Jonathan Hoefler</a></li>
 			<li><a href="#luc-de-groot">Luc(as) de Groot</a></li>
