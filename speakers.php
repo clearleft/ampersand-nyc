@@ -148,7 +148,7 @@
 
 <div class="speaker-copy" >
 		<h1>The Future of Responsive Typography</h1>
-		<p></p>
+		<p>Some of the most fundamental and important elements of typography still can’t be addressed on the web of today. Even as the adoption of webfonts spreads, web typographers are stuck with low-level hacks and antiquated standards that often favor support for old technologies more than innovation and logic. By discussing ideas about font hinting, media queries, typeface design, and more, this talk will explore the unrealized potential for context-specific type, and how it might influence responsive design in the future.</p>
 
 	<h2>Nick Sherman</h2>
 		<p class="speaker-bio">Nick Sherman is a Brooklyn-based typographer working with Font Bureau and Webtype to promote typefaces for print and digital media. Originally from Cape Cod and Boston, he is also a skate­boarder, pizza enthusiast, printer, musician, and classic horror film buff.</p>
