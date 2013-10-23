@@ -162,7 +162,7 @@
                     <th class="time"><time class="dtstart" title="2013-11-02T19:30:00">19.30</time> &ndash; <time class="dtend">Late</time></th>
                     <td>
                     	<h3 class="summary">After Party <em>hosted by Typekit</em></h3>
-                    	<p class="vcard"><a href="location.php" class="fn url">TBA</a></p>
+                    	<p class="vcard"><a href="location.php" class="fn url">The Hudson Bond, 215 West 40th St, NY 10018.</a></p>
                    	</td>
                 </tr>
             </table>

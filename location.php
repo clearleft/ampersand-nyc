@@ -61,7 +61,8 @@
 			<div class="location-c">
 				<h2><em>Typekit</em> After Party</h2>
 				<address>
-					<span class="conf-location-name">Venue TBA</span>
+					<span class="conf-location-name">The Hudson Bond</span><br />
+					215 West 40th St, New York, <a href="https://www.google.com/maps/preview#!q=The+Hudson+Bond%2C+West+40th+Street%2C+New+York%2C+NY&data=!4m15!2m14!1m13!1s0x89c259ab57f86da7%3A0x538582e157c4140f!3m8!1m3!1d4191!2d-73.9886698!3d40.7552534!3m2!1i1306!2i1065!4f13.1!4m2!3d40.755199!4d-73.988712" title="See on Google Maps">NY 10018</a>.
 				</address>
 			</div>
 		</div><!-- END #conf-location -->
