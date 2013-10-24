@@ -17,6 +17,7 @@
 					<a href="http://gridsetapp.com/"><img src="images/sponsors-gridset.svg" alt="Gridset" style="position:relative; top:-30px"></a>
 					<a href="http://myfonts.com"><img src="images/sponsors-myfonts.svg" alt="MyFonts" style="position:relative; top:-1px"></a>	
 					<a href="http://webtype.com"><img src="images/sponsors-webtype.png" alt="WebType" style="position:relative; top:-32px; height: 35px;"></a>	
+					<a href="https://www.fontfont.com/fonts/mark"><img src="images/sponsors-fontfont.png" alt="FontFont FF Mark" style="position:relative; top:-20px; width:180px"></a>	
 				</div>
 				<div class="media-partners">
 					<h2><span>Media Partners</span></h2>	
