@@ -16,7 +16,7 @@
 					<a href="http://www.typography.com/index.php?affiliateID=312"><img src="images/sponsors-hoefler-frere-jones.svg" alt="Hoefler &amp; Frere-Jones" style="position:relative; top:-5px;"></a>
 					<a href="http://gridsetapp.com/"><img src="images/sponsors-gridset.svg" alt="Gridset" style="position:relative; top:-30px"></a>
 					<a href="http://myfonts.com"><img src="images/sponsors-myfonts.svg" alt="MyFonts" style="position:relative; top:-1px"></a>	
-					<a href="http://webtype.com"><img src="images/sponsors-webtype.png" alt="WebType" style="position:relative; top:-32px; height: 35px;"></a>	
+					<a href="http://webtype.com"><img src="images/sponsors-webtype.svg" alt="WebType" style="position:relative; top:-32px; height: 35px;"></a>	
 					<a href="https://www.fontfont.com/fonts/mark"><img src="images/sponsors-fontfont.svg" alt="FontFont FF Mark" style="position:relative; top:-20px; width:180px"></a>	
 				</div>
 				<div class="media-partners">
