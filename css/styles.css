@@ -485,7 +485,7 @@ footer a{color:#7EA107;}
 		#speaker2 { background:url('../images/speakers-mark-boulton.jpg')  0 0 no-repeat; background-size: contain; }
 		#speaker3 { background:url('../images/speakers-jenn-lukas.jpg')  0 0 no-repeat; background-size: contain; }
 		#speaker4 { background:url('../images/speakers-luc-de-groot.jpg')  0 0 no-repeat; background-size: contain; }
-		#speaker5 { background:url('../images/speakers-avatar.jpg')  0 0 no-repeat; background-size: contain; }
+		#speaker5 { background:url('../images/speakers-michael-johnson.jpg')  0 0 no-repeat; background-size: contain; }
 		#speaker6 { background:url('../images/speakers-trent-walton.jpg')  0 0 no-repeat; background-size: contain; }
 		#speaker7 { background:url('../images/speakers-jonathan-hoefler.jpg')  0 0 no-repeat; background-size: contain; }
 		#speaker8 { background:url('../images/speakers-andy-hume.jpg')  0 0 no-repeat; background-size: contain; }
@@ -694,7 +694,7 @@ h2 em, h3 em {
 	margin-top: 2em;
 }
 		
-		#michael-johnson .speaker-more { background: url('../images/speakers-keynote.jpg') 0 0 no-repeat; background-size: contain;  }	
+		#michael-johnson .speaker-more { background: url('../images/speakers-michael-johnson') 0 0 no-repeat; background-size: contain;  }	
 		#nick-sherman .speaker-more { background: url('../images/speakers-nick-sherman.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#mark-boulton .speaker-more { background: url('../images/speakers-mark-boulton.jpg') 0 0 no-repeat; background-size: contain;  }	
 		#jenn-lukas .speaker-more { background: url('../images/speakers-jenn-lukas.jpg') 0 0 no-repeat; background-size: contain;  }	
