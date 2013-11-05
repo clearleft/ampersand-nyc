@@ -13,6 +13,6 @@
 		<p class="price"><span>only</span> $349</p>
 		*/ ?>
 		<br />
-		<a href="http://ampersand-nyc.eventbrite.com" class="cta">Register Now</a>
+		<a href="http://ampersand-nyc.eventbrite.com" class="cta">Sold Out</a>
 	</div>
 </header>
