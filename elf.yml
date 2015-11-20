@@ -1,0 +1,6 @@
+repository: git@github.com:clearleft/ampersand-nyc.git
+
+deploy:
+  branch: master
+  server: ampersand.clearleft.host
+  domain: nyc.ampersandconf.com
