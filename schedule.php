@@ -1,40 +1,11 @@
-<!DOCTYPE html>
-<?php $thisPage="schedulepage"; ?>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Ampersand New York &middot; Schedule</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<?php $thisPage     = 'schedulepage'; ?>
+<?php $pageTitle    = 'Schedule'; ?>
 
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-	<script type="text/javascript">
-		var html = document.getElementsByTagName('html')[0];
-        html.className = 'js wf-loading';
-        setTimeout(function() {
-            html.className = html.className.replace(' wf-loading', '');
-        }, 3000)
-        WebFontConfig = { fontdeck: { id: 29643 } };
-        (function() {
-            var wf = document.createElement('script');
-            wf.src = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-            wf.async = 'true';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(wf, s);
-        })();
-
-	</script>
-<link rel="stylesheet" href="css/styles.css">
-
-
-
-</head>
+<?php include("includes/pageHeader.php"); ?>
 
 <body id="wrapper" class="vevent home">
 
-	<?php include("includes/header.php"); ?>
-
+    <?php include("includes/header.php"); ?>
 
 <!-- SCHEDULE -->
 

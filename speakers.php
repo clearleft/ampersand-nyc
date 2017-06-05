@@ -1,67 +1,7 @@
-<!DOCTYPE html>
-<?php $thisPage="speakerspage"; ?>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Ampersand New York &middot; Speakers</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<?php $thisPage     = 'speakerspage'; ?>
+<?php $pageTitle    = 'Speakers'; ?>
 
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-	<script type="text/javascript">
-		var html = document.getElementsByTagName('html')[0];
-        html.className = 'js wf-loading';
-        setTimeout(function() {
-            html.className = html.className.replace(' wf-loading', '');
-        }, 3000)
-        WebFontConfig = { fontdeck: { id: 29643 } };
-        (function() {
-            var wf = document.createElement('script');
-            wf.src = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-            wf.async = 'true';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(wf, s);
-        })();
-
-	</script>
-<link rel="stylesheet" href="css/styles.css">
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-
-<script type="text/javascript">
-	$(document).ready(function () {
-	  var top = $('.speaker-nav').offset().top - parseFloat($('.speaker-nav').css('marginTop').replace(/auto/, 0));
-	  $(window).scroll(function (event) {
-	    // what the y position of the scroll is
-	    var y = $(this).scrollTop();
-
-	    // whether that's below the form
-	    if (y >= top) {
-	      // if so, ad the fixed class
-	      $('.speaker-nav').addClass('fixed');
-	    } else {
-	      // otherwise remove it
-	      $('.speaker-nav').removeClass('fixed');
-	    }
-	  });
-
-	  $('a[href^="#"]').bind('click.smoothscroll',function (e) {
-	      e.preventDefault();
-	      var target = this.hash;
-	          $target = $(target);
-	      $('html, body').stop().animate({
-	          'scrollTop': $target.offset().top
-	      }, 500, 'swing', function () {
-	          window.location.hash = target;
-	      });
-	  });
-	});
-
-
-</script>
-
-</head>
+<?php include("includes/pageHeader.php"); ?>
 
 <body id="wrapper" class="vevent home">
 
@@ -86,7 +26,7 @@
     		    		<ul>
     			<li><a href="http://www.twitter.com/johnsonbanks">@johnsonbanks</a></li>
     			<li><a href="http://johnsonbanks.co.uk/thoughtfortheweek">Thought for the Week</a></li>
-    			
+
     		</ul>
     	</div><!-- END MORE-BIO -->
    </section>
@@ -234,6 +174,40 @@
 </div>
 
 <?php include("includes/footer.php"); ?>
+
+    <script src="http://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+          var top = $('.speaker-nav').offset().top - parseFloat($('.speaker-nav').css('marginTop').replace(/auto/, 0));
+          $(window).scroll(function (event) {
+            // what the y position of the scroll is
+            var y = $(this).scrollTop();
+
+            // whether that's below the form
+            if (y >= top) {
+              // if so, ad the fixed class
+              $('.speaker-nav').addClass('fixed');
+            } else {
+              // otherwise remove it
+              $('.speaker-nav').removeClass('fixed');
+            }
+          });
+
+          $('a[href^="#"]').bind('click.smoothscroll',function (e) {
+              e.preventDefault();
+              var target = this.hash;
+                  $target = $(target);
+              $('html, body').stop().animate({
+                  'scrollTop': $target.offset().top
+              }, 500, 'swing', function () {
+                  window.location.hash = target;
+              });
+          });
+        });
+
+
+    </script>
 
 </body>
 </html>
